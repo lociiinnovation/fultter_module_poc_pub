@@ -36,29 +36,5 @@
       <version>1.0.0-45f6e009110df4f34ec2cf99f63cf73b71b7a420</version>
       <scope>compile</scope>
     </dependency>
-    <dependency>
-      <groupId>com.baseflow.permissionhandler</groupId>
-      <artifactId>permission_handler_android_release</artifactId>
-      <version>1.0.4</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>io.flutter.plugins.flutter_plugin_android_lifecycle</groupId>
-      <artifactId>flutter_plugin_android_lifecycle_release</artifactId>
-      <version>1.0.4</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>io.flutter.plugins.camera</groupId>
-      <artifactId>camera_android_release</artifactId>
-      <version>1.0.4</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>dev.fluttercommunity.plus.connectivity</groupId>
-      <artifactId>connectivity_plus_release</artifactId>
-      <version>1.0.4</version>
-      <scope>compile</scope>
-    </dependency>
   </dependencies>
 </project>
