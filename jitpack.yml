@@ -3,5 +3,5 @@
 #  - mvn install:install-file $FILE -DgroupId=com.github.som1361 -DartifactId=epassport-reader -Dversion=0.0.4 -Dpackaging=aar -DpomFile=pom.xml
 #
 install:
-  - FILE="-Dfile=id/truuth/flutter_module/flutter_release/1.0.4/flutter_release-1.0.4.aar"
-  - mvn install:install-file $FILE -DgroupId=id.truuth.flutter_module -DartifactId=flutter_release -Dversion=1.0.4 -Dpackaging=aar -DpomFile=/Users/locii/Desktop/fultter_module_poc_pub/id/truuth/flutter_module/flutter_release/1.0.4/flutter_release-1.0.4.pom
+  - FILE="-Dfile=flutter_release-1.0.4.aar"
+  - mvn install:install-file $FILE -DgroupId=id.truuth.flutter_module -DartifactId=flutter_release -Dversion=1.0.4 -Dpackaging=aar -DpomFile=flutter_release-1.0.4.pom
